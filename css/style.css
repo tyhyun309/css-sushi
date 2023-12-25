@@ -252,6 +252,7 @@ a {
 @media screen and (max-width: 550px) {
   .subscription {
     padding: 64px 32px;
+    background-size: cover;
   }
 
   .subscription h2 {
